@@ -46,6 +46,12 @@ Etudiant en Informatique où j'apprends énormément de technologies, je travail
 
 ---
 
+## ⏳ WakaTime Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=maxichiasse&theme=blueberry&title_color=0A4ABF&icon_color=0A4ABF" />
+</p>
+
 
 
 <p align="center">
