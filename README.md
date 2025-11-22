@@ -1,11 +1,9 @@
 <!-- Banner -->
-<h1 align="center" style="color:#0A4ABF;">Hi there 👋</h1>
-<h3 align="center" style="color:#0A4ABF;">Student who enjoys coding !</h3>
+<h1 align="center" style="color:#0A4ABF;">👋</h1>
 
----
 
 ## 🌐 About Me
-Etudiant en Informatique où j'apprends énormément de technologies, je travaille principalement en DevOps, Réseaux et AdminSys mais je code également pour des projets ainsi que pour le plaisir
+Last year's student who likes coding for fun even though im more of an admin sys dude
 
 ---
 
@@ -13,24 +11,18 @@ Etudiant en Informatique où j'apprends énormément de technologies, je travail
 
 ### **Languages**
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,js,java,c#,cpp" />
+  <img src="https://skillicons.dev/icons?i=cs,css,js,ts,html,dart,discordjs,dotnet,express,firebase,flutter,mysql,postgres,react,vite,webstorm,idea" />
 </p>
 
 
 ### **Tools**
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,linux,docker,vercel,postman,jenkins,grafana" />
+  <img src="https://skillicons.dev/icons?i=bash,cloudflare,docker,git,github,grafana,jenkins,linux,robloxstudio" />
 </p>
 
 ---
 
-## 📬 Connect with Me
-<p>
-  <a href="https://github.com/maxichiasse"><img src="https://skillicons.dev/icons?i=github" /></a>
-  <!-- Ici je vais ajouter mon linkedin -->
-</p>
 
----
 
 ## 📊 GitHub Stats
 <div align="center">
@@ -54,7 +46,3 @@ Etudiant en Informatique où j'apprends énormément de technologies, je travail
 
 
 
-<p align="center">
-  <b style="color:#0A4ABF;">Thanks for visiting my profile 💙</b><br>
-  ⭐ N’hésite pas à star mes projets ou laisser un feedback !
-</p>
